@@ -1,8 +1,10 @@
 li {
     list-style-type: none; /* Убираем маркеры */
+    margin: 0;
 }
 body {
     margin:0;
+    background:whitesmoke;
 }
 ul {
     margin-left: 0;
